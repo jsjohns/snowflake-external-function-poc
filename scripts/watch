@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+saw watch /aws/lambda/snowflake-external-function-poc-docker --raw --expand

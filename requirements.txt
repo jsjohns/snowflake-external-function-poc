@@ -1,0 +1,3 @@
+orjson
+snowflake-connector-python[pandas, secure-local-storage]
+pytest
